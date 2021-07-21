@@ -1,0 +1,34 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "csb-k1wq7.vercel.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Gogaille-Bar",
+          "value": "bar-ibe"
+        }
+      ]
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "csb-k1wq7.vercel.app"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Gogaille-Foo",
+          "value": "foo-ibe"
+        }
+      ]
+    }
+  ]
+}
