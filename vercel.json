@@ -5,7 +5,7 @@
       "has": [
         {
           "type": "host",
-          "value": "vercel-bug-404-when-hearder-set-reproduction.vercel.app"
+          "value": "vercel-bug-404-when-hearder-set-reproduction.vercel.sh"
         }
       ],
       "headers": [
@@ -20,7 +20,7 @@
       "has": [
         {
           "type": "host",
-          "value": "vercel-bug-404-when-hearder-set-reproduction.vercel.app"
+          "value": "vercel-bug-404-when-hearder-set-reproduction.vercel.sh"
         }
       ],
       "headers": [
